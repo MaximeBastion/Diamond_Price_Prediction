@@ -1,5 +1,19 @@
 # Diamond Price Prediction
 
+## The Project in 2 Videos
+Note: My native language is French.
+
+<a href="https://www.youtube.com/watch?v=fGcfwbegLZ0">
+         <kbd><img alt="Diamond Price Prediction Part 1" src="https://img.youtube.com/vi/fGcfwbegLZ0/maxresdefault.jpg"
+         width=50%" height="50%"></kbd>
+</a>
+                                
+
+<a href="https://www.youtube.com/watch?v=d5Llo6GXybY">
+         <kbd><img alt="Diamond Price Prediction Part 2" src="https://img.youtube.com/vi/d5Llo6GXybY/maxresdefault.jpg"
+         width=50%" height="50%"></kbd>
+</a> 
+           
 ## Goal
 Training a Machine Learning algorithm that predicts the price of diamonds using their features.
 
